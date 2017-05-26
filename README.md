@@ -21,3 +21,7 @@ the sensor datasheet.
 |B|1|0|
 |C|1|1|
 |D|0|1|
+
+Only windows is currently supported out of the box due to the lack of default
+keyboard shortcuts on macOS and the wide variety of desktop environments on
+Linux.
